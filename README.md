@@ -4,6 +4,7 @@
 # JavaScript Advanced (ES6+) – 15 Practical Assignments
 
 Har assignment ka purpose ye hai ke students ko **real-world use**, **practice**, aur **benefits** samajh aa jayein.
+is se students ki **Hosla Afzai** hogi or sath sath ye khud ko **Improve** bhe Karengy
 
 ---
 
